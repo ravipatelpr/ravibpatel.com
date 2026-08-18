@@ -1,10 +1,10 @@
 # ravibpatel.com
 
-Lightweight personal website for Ravi B. Patel.
+Cloudflare Workers Static Assets deployment.
 
-Files:
-- index.html — page structure/content
-- style.css — responsive design
-- script.js — small mobile-menu/year script
+- public/index.html
+- public/style.css
+- public/script.js
+- wrangler.toml
 
-The site is intentionally simple and static so it can be hosted cheaply on Cloudflare Pages.
+The `public` folder contains the files Cloudflare serves as the website.
