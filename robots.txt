@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ravibpatel.com/sitemap.xml
